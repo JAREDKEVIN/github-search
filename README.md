@@ -20,7 +20,7 @@ A website that allows input of usernames of personal public github profiles.
 ## Behaviour Driven Development (BDD)
 |Behaviour 	           |    Input 	                 |       Output          |
 |----------------------------------------------|:-----------------------------------:|-----------------------------:|       
-|Page loads, reveals interactive cards that contain the quotes posted and a form to add their own.                        |   User fills the Author, Quote and Publisher sections of the form.                  |A new interactive card containing the new quote appears.     |                       |
+|Page loads, reveals a form that should take in public Github usernames.                        |   User fills the username to the form.                  |A public profile appears that shows the various repositories on the profile    |                       |
 
 
 ## Setup/Installation Requirements
