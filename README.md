@@ -1,15 +1,14 @@
 # GITHUB-SEARCH
 
 
-![alt text](src/assets/images/screenshot1.png)
+<!-- ![alt text](src/assets/images/screenshot1.png) -->
 
 
 ### Author
  **[KEVIN KIPKEMOI.](https://github.com/JAREDKEVIN)**
 
 ## Description
-
-A website that allows input of usernames of personal public github profiles.
+This website allows users to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
 
 **[Live-Link to site.]()**
 ## Features
@@ -32,6 +31,10 @@ Here is a run through of how to set up the application:
 * Step 3 : Open the directory created with your favorite IDE. If Atom type **`atom .`** if VSCode type **`code .`** . This will lauch the editor with the project setup,
 * Now feel free to hack around the project.
 
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 ## Known Bugs
 
 - The form displays the github user profile when username is submitted.
@@ -48,6 +51,10 @@ Here is a run through of how to set up the application:
 ## Support and contact details
 
 Primary Address: @JAREDKEVIN
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
 
 ### License
 *MIT License* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
