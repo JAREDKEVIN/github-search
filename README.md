@@ -10,7 +10,7 @@
 ## Description
 This website allows users to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
 
-**[Live-Link to site.]()**
+**[Live-Link to site.](https://jaredkevin.github.io/github-search/)**
 ## Features
 
 * Interactive input form that shows the users Github profile.
